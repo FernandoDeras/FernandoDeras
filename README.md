@@ -29,7 +29,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FernandoDeras&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoDeras&layout=compact&theme=radical)  
-[![Streak](https://streak-stats.demolab.com/?user=FernandoDeras&theme=dark)](#)(https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com/?user=FernandoDeras&theme=dark)](https://git.io/streak-stats)
 
 ---
 
