@@ -1,24 +1,25 @@
-<h1 align="center">¡Hey! Soy **Fernando** 👋</h1>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fernando/Fernando/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fernando/Fernando/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake de contribuciones" src="https://raw.githubusercontent.com/Fernando/Fernando/output/github-contribution-grid-snake.svg" />
-</picture>
-
 <p align="center">
-  <b>Ingeniero de Software</b> – Especialista en 🎯 React Native • Mobile‑first • Visión futurista 📡
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=¡Hola, soy Fernando!" height="100"/>
 </p>
+
+### 👋 Sobre mí  
+- 🔭 Actualmente desarrollo apps móviles con React Native.  
+- 🌱 Apasionado por la IA y arquitecturas futuras.  
+- 🚀 Me encanta explorar nuevos frameworks JS y patrones de diseño.  
+- 🎯 Buscando colaborar en proyectos con impacto real.
+
+### 🌐 Encuéntrame en  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando-blue)](https://linkedin.com/in/tuperfil)  
+[![Twitter](https://img.shields.io/badge/Twitter-@tuusuario-blue)](https://twitter.com/tuusuario)  
+[![Personal Web](https://img.shields.io/badge/Web-Fernando.dev-brightgreen)](https://fernando.dev)
 
 ---
 
-## 🧠 Sobre mí
+### 📊 Estadísticas GitHub  
+![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
 
-```yaml
-name: Fernando
-role: Mobile Software Engineer
-specialties:
-  - React Native
-  - TypeScript · Node.js · GraphQL
-  - CI/CD · Performance · Cloud
-passion: "Transformar ideas en apps escalables, bonitas y útiles."
-current_focus: "React Native modules, automatización CI/CD y optimizaciones móviles."
+---
+
+### 🧠 Tech Stack  
+```plaintext
+React Native · TypeScript · Node.js · GraphQL · Docker · AWS
