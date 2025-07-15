@@ -17,7 +17,8 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
 
 ## 🎧 Escuchando ahora
-[![Spotify ahora suena](https://spotify-recently-played-readme.vercel.app/api?user=TU_SPOTIFY_USERNAME&count=1&width=400)](https://open.spotify.com/user/TU_SPOTIFY_USERNAME)
+[![Spotify ahora suena](https://spotify-recently-played-readme.vercel.app/api?user=Fernando Deras&count=1&width=400)](https://open.spotify.com/user/TU_SPOTIFY_USERNAME)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1286849226)
 
 ## 📊 Mis estadísticas
 ![Fernando’s GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_GITHUB_USERNAME&show_icons=true&theme=radical)
