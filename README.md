@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="assets/header.png" alt="Hola, soy Fernando" width="800"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hola+soy+Fernando" alt="header"/>
 </p>
-
-## 👨‍💻 ¡Hola! Soy Fernando
-
 🎓 Ingeniero en Software con pasión por construir soluciones completas que realmente impacten. Me especializo en desarrollo **FullStack**, con fuerte enfoque en aplicaciones móviles usando **React Native**, y backend robusto en **Node.js**, **Laravel**, y **CodeIgniter**.
 
 🧠 Me encanta trabajar con **bases de datos relacionales**, escribir **código limpio**, y diseñar experiencias de usuario que sean fluidas, funcionales y visualmente atractivas. También disfruto **optimizar procesos**, automatizar tareas (Selenium vibes 😎), y explorar las posibilidades de la **inteligencia artificial** y el **análisis de datos**.
