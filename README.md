@@ -20,11 +20,8 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)  
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest)  
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins)
 
 ---
 
