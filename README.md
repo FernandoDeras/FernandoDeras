@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hola+soy+Fernando" alt="header"/>
 </p>
-🎓 Ingeniero en Software con pasión por construir soluciones completas que realmente impacten. Me especializo en desarrollo **FullStack**, con fuerte enfoque en aplicaciones móviles usando <b>React Native</b>, y backend robusto en <b>Node.js</b>, <b>Laravel</b>, y <b>CodeIgniter</b>.
+🎓 Ingeniero en Software con pasión por construir soluciones completas que realmente impacten. Me especializo en desarrollo <b>FullStack</b>, con fuerte enfoque en aplicaciones móviles usando <b>React Native</b>, y backend robusto en <b>Node.js</b>, <b>Laravel</b>, y <b>CodeIgniter</b>.
 
 🧠 Me encanta trabajar con **bases de datos relacionales**, escribir **código limpio**, y diseñar experiencias de usuario que sean fluidas, funcionales y visualmente atractivas. También disfruto **optimizar procesos**, automatizar tareas (Selenium vibes 😎), y explorar las posibilidades de la **inteligencia artificial** y el **análisis de datos**.
 
@@ -32,7 +32,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FernandoDeras&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoDeras&layout=compact&theme=radical)  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FernandoDeras&theme=dark)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com/?user=FernandoDeras&theme=dark)](#)(https://git.io/streak-stats)
 
 ---
 
