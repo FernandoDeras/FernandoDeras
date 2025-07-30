@@ -34,9 +34,6 @@
 ---
 
 ## 🛠 Proyectos destacados
-
-## 🛠 Proyectos destacados
-
 | Proyecto | Descripción | Tech stack |
 |---------|-------------|-------------|
 | **📚 CRM Y Control Escolar** | Sistema escolar con módulos de accesos, libros, inventario y pagos |![CodeIgniter](https://img.shields.io/badge/CodeIgniter-E44D26?style=flat&logo=codeigniter&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) |
